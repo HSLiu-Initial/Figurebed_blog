@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 MSU.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="10.3053in" height="3.50509in"
+		viewBox="0 0 741.979 252.366" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#ptrn6-4);shape-rendering:crispEdges;stroke:#000000;stroke-width:0.75}
+		.st2 {marker-end:url(#mrkr1-16);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st4 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:0.833336em;font-weight:bold}
+		.st6 {fill:#ead0d1;stroke:#a27e7e;stroke-width:0.75}
+		.st7 {marker-end:url(#mrkr4-34);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.3315649867374}
+		.st9 {fill:#c9c0d3;stroke:#a27e7e;stroke-width:0.75}
+		.st10 {font-size:1em}
+		.st11 {fill:#dfd7d7;stroke:#a27e7e;stroke-width:0.75}
+		.st12 {fill:none;stroke:none;stroke-width:0.25}
+		.st13 {fill:#000000}
+		.st14 {fill:#c1cbd7;stroke:#a27e7e;stroke-width:0.75}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<pattern id="ptrn6-4" v:fillPattern="6" v:foreground="#8696a7" v:background="#c1cbd7" patternUnits="userSpaceOnUse"
+				width="6" height="6" viewBox="0 0 64 64">
+			<image x="0" y="0" width="64" height="64" image-rendering="optimizeSpeed"
+					xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAJOgAACToAYJjBRwAAAAbSURBVChTY2ibtvw/Psxw8PT1//jwcFBw/T8AuCbTgRXUS74AAAAASUVORK5CYII="/>
+		</pattern>
+	</defs>
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-16" class="st3" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-34" class="st8" v:arrowType="4" v:arrowSize="2" v:setback="6.032" refX="-6.032" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.016,-3.016) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="输入" v:index="0"/>
+		<v:layer v:name="连接线" v:index="1"/>
+		<g id="shape1000-1" v:mID="1000" v:groupContext="shape" transform="translate(77.2628,-80.1232)">
+			<title>矩形.1000</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="110.262" width="23.639" height="142.104" class="st1"/>
+		</g>
+		<g id="shape1001-5" v:mID="1001" v:groupContext="shape" transform="translate(87.0606,-68.1811)">
+			<title>矩形.1001</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="110.262" width="23.639" height="142.104" class="st1"/>
+		</g>
+		<g id="shape1002-8" v:mID="1002" v:groupContext="shape" transform="translate(97.5983,-55.1703)">
+			<title>矩形.1002</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="110.262" width="23.639" height="142.104" class="st1"/>
+		</g>
+		<g id="shape1003-11" v:mID="1003" v:groupContext="shape" v:layerMember="0"
+				transform="translate(207.391,-32.8916) rotate(37.0676)">
+			<title>工作表.1003</title>
+			<desc>Feature</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.514" cy="252.366" width="47.03" height="0"/>
+			<path d="M0 252.37 L47.03 252.37" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="6.85629" y="246.366" width="33.3155" height="12.0001" class="st4"/>
+			<text x="6.86" y="255.37" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Feature</text>		</g>
+		<g id="shape1004-19" v:mID="1004" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-197.091,159.029) rotate(-90)">
+			<title>工作表.1004</title>
+			<desc>Temporal</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.2756" cy="252.366" width="110.56" height="0" transform="rotate(90)"/>
+			<path d="M0 252.37 L110.55 252.37" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="231.257" y="-61.2755" width="42.2174" height="12.0001" transform="rotate(90)"
+					class="st4"/>
+			<text x="231.26" y="-52.28" transform="rotate(90)" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Temporal</text>		</g>
+		<g id="shape1005-26" v:mID="1005" v:groupContext="shape" transform="translate(177.478,-0.75)">
+			<title>圆角矩形.1005</title>
+			<desc>LSTM</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.05218254936729):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.05218254936729):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.05218254936729):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.05218254936729):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.7857" cy="126.933" width="37.58" height="250.866"/>
+			<path d="M3.76 252.37 L33.81 252.37 A3.75708 3.75708 -180 0 0 37.57 248.61 L37.57 5.26 A3.75708 3.75708 -180 0 0 33.81
+						 1.5 L3.76 1.5 A3.75708 3.75708 -180 0 0 0 5.26 L0 248.61 A3.75708 3.75708 -180 0 0 3.76 252.37 Z"
+					class="st6"/>
+			<text x="4.62" y="129.93" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>LSTM</text>		</g>
+		<g id="shape1006-29" v:mID="1006" v:groupContext="shape" v:layerMember="1" transform="translate(121.237,-133.289)">
+			<title>动态连接线.1006</title>
+			<path d="M0 259.43 L48.7 259.47" class="st7"/>
+		</g>
+		<g id="shape1007-35" v:mID="1007" v:groupContext="shape" transform="translate(275.908,-38.759)">
+			<title>圆角矩形.1007</title>
+			<desc>Outputs</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.4531" cy="224.132" width="46.91" height="56.4679"/>
+			<path d="M4.69 252.37 L42.22 252.37 A4.69053 4.69053 -180 0 0 46.91 247.68 L46.91 200.59 A4.69053 4.69053 -180 0 0 42.22
+						 195.9 L4.69 195.9 A4.69053 4.69053 -180 0 0 0 200.59 L0 247.68 A4.69053 4.69053 -180 0 0 4.69 252.37 Z"
+					class="st9"/>
+			<text x="5.95" y="227.13" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Outputs</text>		</g>
+		<g id="shape1008-38" v:mID="1008" v:groupContext="shape" v:layerMember="1" transform="translate(215.05,-126.183)">
+			<title>动态连接线.1008</title>
+			<path d="M0 252.37 L55.45 306.3" class="st7"/>
+		</g>
+		<g id="shape1009-43" v:mID="1009" v:groupContext="shape" transform="translate(275.908,-160.604)">
+			<title>圆角矩形.1009</title>
+			<desc>Last Hidden States</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.4531" cy="224.132" width="46.91" height="56.4679"/>
+			<path d="M4.69 252.37 L42.22 252.37 A4.69053 4.69053 -180 0 0 46.91 247.68 L46.91 200.59 A4.69053 4.69053 -180 0 0 42.22
+						 195.9 L4.69 195.9 A4.69053 4.69053 -180 0 0 -0 200.59 L0 247.68 A4.69053 4.69053 -180 0 0 4.69 252.37 Z"
+					class="st9"/>
+			<text x="14.01" y="215.13" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Last <tspan x="7.61"
+						dy="1.2em" class="st10">Hidden </tspan><tspan x="10.68" dy="1.2em" class="st10">States</tspan></text>		</g>
+		<g id="shape1010-48" v:mID="1010" v:groupContext="shape" v:layerMember="1" transform="translate(215.05,-126.183)">
+			<title>动态连接线.1010</title>
+			<path d="M0 252.37 L55.61 195.12" class="st7"/>
+		</g>
+		<g id="shape1011-53" v:mID="1011" v:groupContext="shape" transform="translate(379.631,-37.9671)">
+			<title>圆角矩形.1011</title>
+			<desc>Realian&#38; Concat</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.065147368791189):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.4531" cy="162.814" width="46.91" height="179.105"/>
+			<path d="M4.69 252.37 L42.22 252.37 A4.69053 4.69053 -180 0 0 46.91 247.68 L46.91 77.95 A4.69053 4.69053 -180 0 0 42.22
+						 73.26 L4.69 73.26 A4.69053 4.69053 -180 0 0 0 77.95 L0 247.68 A4.69053 4.69053 -180 0 0 4.69 252.37 Z"
+					class="st11"/>
+			<text x="7.06" y="153.81" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Realian<tspan
+						x="19.29" dy="1.2em" class="st10">&#38;<v:newlineChar/></tspan><tspan x="8.18" dy="1.2em" class="st10">Concat</tspan></text>		</g>
+		<g id="shape1012-58" v:mID="1012" v:groupContext="shape" v:layerMember="1" transform="translate(322.815,-188.838)">
+			<title>动态连接线.1012</title>
+			<path d="M0 252.37 L51.69 308.15" class="st7"/>
+		</g>
+		<g id="shape1013-63" v:mID="1013" v:groupContext="shape" v:layerMember="1" transform="translate(322.815,-66.993)">
+			<title>动态连接线.1013</title>
+			<path d="M0 252.37 L51.66 197.34" class="st7"/>
+		</g>
+		<g id="shape1014-68" v:mID="1014" v:groupContext="shape" transform="translate(466.299,-37.9671)">
+			<title>圆角矩形.1014</title>
+			<desc>Temporal Attention</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.070440589872328):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.070440589872328):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.070440589872328):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.070440589872328):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.3586" cy="162.814" width="50.72" height="179.105"/>
+			<path d="M5.07 252.37 L45.65 252.37 A5.07164 5.07164 -180 0 0 50.72 247.29 L50.72 78.33 A5.07164 5.07164 -180 0 0 45.65
+						 73.26 L5.07 73.26 A5.07164 5.07164 -180 0 0 0 78.33 L0 247.29 A5.07164 5.07164 -180 0 0 5.07 252.37 Z"
+					class="st11"/>
+			<text x="4.25" y="159.81" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Temporal <tspan
+						x="5.08" dy="1.2em" class="st10">Attention</tspan></text>		</g>
+		<g id="shape1015-72" v:mID="1015" v:groupContext="shape" v:layerMember="1" transform="translate(426.537,-134.606)">
+			<title>动态连接线.1015</title>
+			<path d="M0 259.45 L32.22 259.45" class="st7"/>
+		</g>
+		<g id="shape1016-77" v:mID="1016" v:groupContext="shape" transform="translate(641.383,-78.2191)">
+			<title>工作表.1016</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<rect x="0" y="141.815" width="100.346" height="110.551" class="st12"/>
+		</g>
+		<g id="group1021-79" transform="translate(238.181,-88.4531)" v:mID="1021" v:groupContext="group">
+			<title>工作表.1021</title>
+			<g id="group1022-80" v:mID="1022" v:groupContext="group">
+				<title>工作表.1022</title>
+				<g id="shape1023-81" v:mID="1023" v:groupContext="shape" transform="translate(0,497.958) scale(1,-1)">
+					<title>MJX-28-TEX-I-1D45C</title>
+					<path d="M1.95 247.25 C1.37 247.25 0.9 247.44 0.54 247.81 C0.18 248.18 0 248.62 0 249.14 C0 249.63 0.12 250.1
+								 0.35 250.53 C0.58 250.97 0.9 251.35 1.31 251.68 C1.9 252.14 2.51 252.37 3.12 252.37 C3.37 252.37
+								 3.53 252.36 3.59 252.35 C3.69 252.33 3.79 252.31 3.9 252.28 C4 252.25 4.13 252.19 4.31 252.09 C4.48
+								 252 4.62 251.89 4.73 251.76 C4.84 251.62 4.94 251.43 5.03 251.2 C5.12 250.97 5.17 250.7 5.17 250.41
+								 C5.17 249.6 4.84 248.87 4.17 248.23 C3.49 247.58 2.76 247.25 1.95 247.25 ZM1.02 248.73 C1.02 248.36
+								 1.12 248.09 1.32 247.92 C1.52 247.75 1.75 247.67 2.01 247.67 C2.36 247.67 2.68 247.79 2.98 248.03
+								 C3.29 248.27 3.53 248.59 3.71 248.98 C3.78 249.14 3.87 249.42 3.98 249.82 C4.09 250.22 4.14 250.57
+								 4.14 250.86 C4.14 251.19 4.07 251.45 3.93 251.62 C3.74 251.85 3.49 251.96 3.18 251.96 C2.69 251.96
+								 2.26 251.74 1.88 251.3 C1.6 250.97 1.38 250.53 1.24 249.98 C1.1 249.43 1.03 249.01 1.02 248.73 Z"
+							class="st13"/>
+				</g>
+				<g id="shape1024-84" v:mID="1024" v:groupContext="shape" transform="translate(5.67369,499.094) scale(1,-1)">
+					<title>MJX-28-TEX-I-1D458</title>
+					<path d="M0.6 251.99 C0.6 252.04 0.61 252.1 0.64 252.17 C0.66 252.24 0.69 252.28 0.74 252.28 C0.74 252.28 0.94
+								 252.29 1.33 252.32 C1.72 252.34 1.92 252.36 1.94 252.37 C2 252.37 2.03 252.34 2.03 252.3 C2.03 252.26
+								 1.9 251.71 1.62 250.63 C1.35 249.57 1.21 249.03 1.21 248.99 C1.31 249.04 1.39 249.09 1.45 249.14
+								 C1.58 249.24 1.77 249.41 2.02 249.65 C2.27 249.89 2.46 250.05 2.6 250.13 C2.82 250.28 3.03 250.35
+								 3.23 250.35 C3.39 250.35 3.52 250.3 3.61 250.2 C3.71 250.1 3.76 249.95 3.76 249.77 C3.76 249.63
+								 3.74 249.52 3.71 249.43 C3.67 249.34 3.61 249.27 3.55 249.23 C3.48 249.19 3.42 249.16 3.37 249.14
+								 C3.33 249.13 3.28 249.12 3.23 249.12 C3.12 249.12 3.03 249.15 2.96 249.21 C2.9 249.27 2.86 249.34
+								 2.86 249.44 C2.86 249.57 2.91 249.68 2.99 249.77 C3.08 249.85 3.17 249.91 3.26 249.93 L3.39 249.96
+								 C3.33 250.02 3.26 250.05 3.19 250.05 L3.16 250.05 C2.98 250.04 2.81 249.97 2.64 249.85 C2.47 249.74
+								 2.27 249.57 2.03 249.34 C1.8 249.12 1.62 248.96 1.49 248.85 C1.5 248.85 1.54 248.84 1.61 248.83
+								 C1.68 248.82 1.75 248.8 1.81 248.78 C1.87 248.76 1.94 248.74 2.03 248.72 C2.11 248.7 2.18 248.66
+								 2.25 248.61 C2.32 248.55 2.38 248.51 2.43 248.46 C2.49 248.42 2.53 248.35 2.57 248.26 C2.61 248.16
+								 2.63 248.07 2.62 247.99 C2.62 247.9 2.61 247.79 2.58 247.66 C2.55 247.54 2.54 247.43 2.53 247.34
+								 C2.53 247.13 2.61 247.02 2.75 247.02 C3.02 247.02 3.23 247.34 3.4 247.98 C3.41 248.02 3.47 248.04
+								 3.57 248.04 L3.6 248.04 C3.69 248.04 3.73 248.02 3.73 247.97 C3.73 247.94 3.72 247.9 3.71 247.86
+								 C3.48 247.1 3.15 246.73 2.73 246.73 C2.48 246.73 2.28 246.8 2.13 246.94 C1.97 247.07 1.89 247.27
+								 1.89 247.54 C1.89 247.63 1.9 247.71 1.92 247.78 C1.94 247.85 1.94 247.92 1.94 247.98 C1.94 248.09
+								 1.91 248.19 1.83 248.28 C1.75 248.36 1.65 248.43 1.54 248.46 C1.42 248.5 1.33 248.53 1.26 248.55
+								 C1.19 248.57 1.14 248.58 1.11 248.58 L1.09 248.58 C1.03 248.35 0.97 248.14 0.92 247.93 C0.87 247.72
+								 0.83 247.56 0.8 247.46 C0.77 247.36 0.75 247.26 0.73 247.17 C0.71 247.07 0.69 247.01 0.67 246.98
+								 C0.65 246.94 0.63 246.91 0.61 246.87 C0.59 246.83 0.56 246.81 0.52 246.8 C0.45 246.75 0.37 246.73
+								 0.29 246.73 C0.2 246.73 0.12 246.75 0.07 246.81 C0.02 246.86 0 246.91 0 246.94 C0 247 0.1 247.42
+								 0.31 248.22 C0.51 249.02 0.71 249.81 0.91 250.58 L1.22 251.74 C1.22 251.81 1.2 251.85 1.16 251.87
+								 C1.11 251.89 1.01 251.9 0.84 251.91 L0.79 251.91 C0.74 251.91 0.7 251.91 0.69 251.91 C0.67 251.91
+								 0.65 251.92 0.63 251.93 C0.61 251.95 0.6 251.97 0.6 251.99 Z" class="st13"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1025-87" transform="translate(534.421,-134.502)" v:mID="1025" v:groupContext="group">
+			<title>工作表.1025</title>
+			<g id="group1026-88" v:mID="1026" v:groupContext="group">
+				<title>工作表.1026</title>
+				<g id="group1027-89" v:mID="1027" v:groupContext="group">
+					<title>工作表.1027</title>
+					<g id="shape1028-90" v:mID="1028" v:groupContext="shape" transform="translate(0,495.097) scale(1,-1)">
+						<title>MJX-70-TEX-I-210E</title>
+						<path d="M1.04 252.24 C1.05 252.24 1.33 252.26 1.88 252.3 C2.44 252.34 2.72 252.36 2.74 252.37 C2.83 252.37
+									 2.88 252.33 2.88 252.26 C2.88 252.18 2.74 251.61 2.46 250.56 C2.16 249.44 2.01 248.87 2.01 248.85
+									 C2.01 248.83 2.04 248.85 2.09 248.9 C2.57 249.31 3.08 249.52 3.62 249.52 C4.04 249.52 4.38 249.41
+									 4.63 249.21 C4.89 249.01 5.02 248.71 5.03 248.32 C5.03 247.93 4.88 247.34 4.59 246.53 C4.29
+									 245.72 4.14 245.24 4.14 245.08 C4.15 244.98 4.17 244.9 4.2 244.87 C4.23 244.83 4.29 244.81 4.38
+									 244.81 C4.59 244.81 4.8 244.92 4.98 245.15 C5.17 245.37 5.32 245.68 5.44 246.08 C5.46 246.16
+									 5.49 246.21 5.51 246.22 C5.53 246.24 5.6 246.25 5.7 246.25 C5.85 246.25 5.93 246.22 5.93 246.16
+									 C5.93 246.15 5.92 246.09 5.88 245.99 C5.76 245.54 5.56 245.18 5.29 244.89 C5.02 244.56 4.71
+									 244.4 4.34 244.4 L4.28 244.4 C3.92 244.4 3.65 244.5 3.49 244.71 C3.32 244.91 3.24 245.13 3.24
+									 245.35 C3.24 245.47 3.38 245.92 3.66 246.69 C3.94 247.46 4.09 248.03 4.09 248.42 C4.09 248.86
+									 3.92 249.09 3.58 249.09 L3.52 249.09 C2.87 249.09 2.31 248.72 1.84 247.98 L1.75 247.83 L1.36
+									 246.3 C1.11 245.32 0.96 244.79 0.92 244.7 C0.82 244.49 0.65 244.39 0.41 244.39 C0.3 244.39 0.21
+									 244.42 0.13 244.49 C0.05 244.56 0.01 244.63 0 244.7 C0 244.8 0.28 245.95 0.85 248.14 L1.72 251.48
+									 C1.72 251.58 1.69 251.64 1.64 251.66 C1.58 251.69 1.43 251.71 1.18 251.72 L0.94 251.72 C0.89
+									 251.77 0.87 251.8 0.87 251.81 C0.87 251.83 0.87 251.9 0.89 252.03 C0.93 252.17 0.98 252.24 1.04
+									 252.24 Z" class="st13"/>
+					</g>
+					<g id="shape1029-93" v:mID="1029" v:groupContext="shape" transform="translate(6.57444,499.094) scale(1,-1)">
+						<title>MJX-70-TEX-I-1D458</title>
+						<path d="M0.6 251.99 C0.6 252.04 0.61 252.1 0.64 252.17 C0.66 252.24 0.69 252.28 0.74 252.28 C0.74 252.28
+									 0.94 252.29 1.33 252.32 C1.72 252.34 1.92 252.36 1.94 252.37 C2 252.37 2.03 252.34 2.03 252.3
+									 C2.03 252.26 1.9 251.71 1.62 250.63 C1.35 249.57 1.21 249.03 1.21 248.99 C1.31 249.04 1.39 249.09
+									 1.45 249.14 C1.58 249.24 1.77 249.41 2.02 249.65 C2.27 249.89 2.46 250.05 2.6 250.13 C2.82 250.28
+									 3.03 250.35 3.23 250.35 C3.39 250.35 3.52 250.3 3.61 250.2 C3.71 250.1 3.76 249.95 3.76 249.77
+									 C3.76 249.63 3.74 249.52 3.71 249.43 C3.67 249.34 3.61 249.27 3.55 249.23 C3.48 249.19 3.42
+									 249.16 3.37 249.14 C3.33 249.13 3.28 249.12 3.23 249.12 C3.12 249.12 3.03 249.15 2.96 249.21
+									 C2.9 249.27 2.86 249.34 2.86 249.44 C2.86 249.57 2.91 249.68 2.99 249.77 C3.08 249.85 3.17 249.91
+									 3.26 249.93 L3.39 249.96 C3.33 250.02 3.26 250.05 3.19 250.05 L3.16 250.05 C2.98 250.04 2.81
+									 249.97 2.64 249.85 C2.47 249.74 2.27 249.57 2.03 249.34 C1.8 249.12 1.62 248.96 1.49 248.86
+									 C1.5 248.85 1.54 248.84 1.61 248.83 C1.68 248.82 1.75 248.8 1.81 248.78 C1.87 248.76 1.94 248.74
+									 2.03 248.72 C2.11 248.7 2.18 248.66 2.25 248.61 C2.32 248.55 2.38 248.51 2.43 248.46 C2.49 248.42
+									 2.53 248.35 2.57 248.26 C2.61 248.16 2.63 248.07 2.62 247.99 C2.62 247.9 2.61 247.79 2.58 247.66
+									 C2.55 247.54 2.54 247.43 2.53 247.34 C2.53 247.13 2.61 247.02 2.75 247.02 C3.02 247.02 3.23
+									 247.34 3.4 247.98 C3.41 248.02 3.47 248.04 3.57 248.04 L3.6 248.04 C3.69 248.04 3.73 248.02
+									 3.73 247.97 C3.73 247.94 3.72 247.9 3.71 247.86 C3.48 247.1 3.15 246.73 2.73 246.73 C2.48 246.73
+									 2.28 246.8 2.13 246.94 C1.97 247.07 1.89 247.27 1.89 247.54 C1.89 247.63 1.9 247.71 1.92 247.78
+									 C1.94 247.85 1.94 247.92 1.94 247.98 C1.94 248.09 1.91 248.19 1.83 248.28 C1.75 248.36 1.65
+									 248.43 1.54 248.46 C1.42 248.5 1.33 248.53 1.26 248.55 C1.19 248.57 1.14 248.58 1.11 248.58
+									 L1.09 248.58 C1.03 248.35 0.97 248.14 0.92 247.93 C0.87 247.72 0.83 247.56 0.8 247.46 C0.77
+									 247.36 0.75 247.26 0.73 247.17 C0.71 247.07 0.69 247.01 0.67 246.98 C0.65 246.94 0.63 246.91
+									 0.61 246.87 C0.59 246.83 0.56 246.81 0.52 246.8 C0.45 246.75 0.37 246.73 0.29 246.73 C0.2 246.73
+									 0.12 246.75 0.07 246.81 C0.02 246.86 0 246.91 0 246.94 C0 247 0.1 247.42 0.31 248.22 C0.51 249.02
+									 0.71 249.81 0.91 250.58 L1.22 251.74 C1.22 251.81 1.2 251.85 1.16 251.87 C1.11 251.89 1.01 251.9
+									 0.84 251.91 L0.79 251.91 C0.74 251.91 0.7 251.91 0.69 251.91 C0.67 251.91 0.65 251.92 0.63 251.93
+									 C0.61 251.95 0.6 251.97 0.6 251.99 Z" class="st13"/>
+					</g>
+				</g>
+				<g id="shape1030-96" v:mID="1030" v:groupContext="shape" transform="translate(3.31567,492.574) scale(1,-1)">
+					<title>MJX-70-TEX-N-5E</title>
+					<path d="M0 250.85 L1.6 252.37 L1.7 252.28 C2.71 251.34 3.22 250.87 3.22 250.85 L2.91 250.52 C2.9 250.53 2.67
+								 250.72 2.23 251.09 L1.61 251.61 L0.97 251.08 C0.87 250.99 0.77 250.91 0.67 250.82 C0.57 250.73 0.48
+								 250.65 0.42 250.6 L0.33 250.53 C0.31 250.52 0.25 250.57 0.15 250.69 L0 250.85 Z" class="st13"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1031-99" v:mID="1031" v:groupContext="shape" transform="translate(565.975,-70.0867)">
+			<title>圆角矩形.1031</title>
+			<desc>Fully Connect</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.060668487324649):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.060668487324649):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.060668487324649):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.060668487324649):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.8407" cy="197.091" width="43.69" height="110.551"/>
+			<path d="M4.37 252.37 L39.31 252.37 A4.36806 4.36806 -180 0 0 43.68 248 L43.68 146.18 A4.36806 4.36806 -180 0 0 39.31
+						 141.81 L4.37 141.81 A4.36806 4.36806 -180 0 0 0 146.18 L0 248 A4.36806 4.36806 -180 0 0 4.37 252.37 Z"
+					class="st14"/>
+			<text x="10.73" y="194.09" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Fully <tspan x="4.06"
+						dy="1.2em" class="st10">Connect</tspan></text>		</g>
+		<g id="shape1032-103" v:mID="1032" v:groupContext="shape" v:layerMember="1" transform="translate(517.016,-133.159)">
+			<title>动态连接线.1032</title>
+			<path d="M0 258.74 L41.42 259.94" class="st7"/>
+		</g>
+		<g id="group1033-108" transform="translate(645.211,-120.729)" v:mID="1033" v:groupContext="group">
+			<title>工作表.1033</title>
+			<g id="shape1034-109" v:mID="1034" v:groupContext="shape" transform="translate(0,495.183) scale(1,-1)">
+				<title>MJX-78-TEX-I-1D70C</title>
+				<path d="M0.68 242.82 C0.25 242.82 0.03 242.96 0 243.25 C0 243.35 0.32 244.37 0.97 246.33 C1.61 248.28 1.96 249.29
+							 2.02 249.35 C2.22 249.88 2.58 250.4 3.08 250.9 C3.99 251.73 5.01 252.22 6.16 252.35 C6.19 252.35 6.24
+							 252.35 6.32 252.35 C6.39 252.35 6.46 252.36 6.51 252.37 C7.45 252.37 8.18 252.13 8.68 251.67 C9.19 251.21
+							 9.44 250.63 9.44 249.96 C9.44 249.41 9.28 248.87 8.97 248.35 C8.66 247.82 8.27 247.38 7.79 247.03 C7.31
+							 246.67 6.8 246.37 6.24 246.14 C5.68 245.91 5.17 245.8 4.71 245.81 L4.5 245.81 L4.36 245.81 C3.7 245.81
+							 3.17 246.02 2.75 246.46 L2.65 246.55 L2.13 244.92 C1.81 243.98 1.62 243.45 1.57 243.32 C1.52 243.2 1.44
+							 243.1 1.34 243.02 C1.13 242.88 0.91 242.82 0.68 242.82 ZM7.77 250.62 C7.77 250.98 7.66 251.27 7.44 251.5
+							 C7.22 251.72 6.9 251.83 6.47 251.83 C6.02 251.83 5.57 251.69 5.12 251.41 C4.66 251.13 4.3 250.76 4.03
+							 250.31 C3.85 250.01 3.6 249.38 3.29 248.42 L2.96 247.43 C3.18 246.7 3.73 246.33 4.59 246.33 C5.08 246.33
+							 5.56 246.5 6.03 246.85 C6.45 247.14 6.81 247.61 7.09 248.24 C7.38 248.88 7.56 249.41 7.65 249.81 C7.74
+							 250.22 7.78 250.49 7.77 250.62 Z" class="st13"/>
+			</g>
+		</g>
+		<g id="shape1036-112" v:mID="1036" v:groupContext="shape" v:layerMember="1" transform="translate(609.656,-118.34)">
+			<title>动态连接线.1036</title>
+			<path d="M0 245.34 L29.4 245.24" class="st7"/>
+		</g>
+		<g id="group1037-117" transform="translate(237.282,-159.293)" v:mID="1037" v:groupContext="group">
+			<title>工作表.1037</title>
+			<g id="group1038-118" v:mID="1038" v:groupContext="group">
+				<title>工作表.1038</title>
+				<g id="shape1039-119" v:mID="1039" v:groupContext="shape" transform="translate(0,495.098) scale(1,-1)">
+					<title>MJX-84-TEX-I-210E</title>
+					<path d="M1.04 252.24 C1.05 252.24 1.33 252.26 1.88 252.3 C2.44 252.34 2.72 252.36 2.74 252.37 C2.83 252.37 2.88
+								 252.33 2.88 252.26 C2.88 252.18 2.74 251.61 2.46 250.56 C2.16 249.44 2.01 248.87 2.01 248.85 C2.01
+								 248.83 2.04 248.85 2.09 248.9 C2.57 249.31 3.08 249.52 3.61 249.52 C4.04 249.52 4.38 249.41 4.63
+								 249.21 C4.89 249.01 5.02 248.71 5.03 248.32 C5.03 247.93 4.88 247.34 4.59 246.53 C4.29 245.72 4.14
+								 245.24 4.14 245.08 C4.15 244.98 4.17 244.9 4.2 244.87 C4.23 244.83 4.29 244.81 4.38 244.81 C4.59
+								 244.81 4.8 244.92 4.98 245.15 C5.17 245.38 5.32 245.68 5.44 246.08 C5.46 246.16 5.49 246.21 5.51
+								 246.22 C5.53 246.24 5.6 246.25 5.7 246.25 C5.85 246.25 5.93 246.22 5.93 246.16 C5.93 246.15 5.92
+								 246.09 5.88 245.99 C5.76 245.54 5.56 245.18 5.29 244.89 C5.02 244.57 4.71 244.4 4.34 244.4 L4.28
+								 244.4 C3.92 244.4 3.65 244.5 3.49 244.71 C3.32 244.91 3.24 245.13 3.24 245.35 C3.24 245.47 3.38
+								 245.92 3.66 246.69 C3.94 247.46 4.09 248.03 4.09 248.42 C4.09 248.86 3.92 249.09 3.58 249.09 L3.52
+								 249.09 C2.87 249.09 2.31 248.72 1.84 247.98 L1.75 247.83 L1.36 246.3 C1.11 245.32 0.96 244.79 0.92
+								 244.7 C0.82 244.49 0.65 244.39 0.41 244.39 C0.3 244.39 0.21 244.43 0.13 244.49 C0.05 244.56 0.01
+								 244.63 0 244.7 C0 244.8 0.28 245.95 0.85 248.14 L1.72 251.48 C1.72 251.58 1.69 251.64 1.64 251.66
+								 C1.58 251.69 1.43 251.71 1.18 251.72 L0.94 251.72 C0.89 251.77 0.87 251.8 0.87 251.81 C0.87 251.83
+								 0.87 251.9 0.89 252.03 C0.93 252.17 0.98 252.24 1.04 252.24 Z" class="st13"/>
+				</g>
+				<g id="shape1040-122" v:mID="1040" v:groupContext="shape" transform="translate(6.57373,499.094) scale(1,-1)">
+					<title>MJX-84-TEX-I-1D458</title>
+					<path d="M0.6 251.99 C0.6 252.04 0.61 252.1 0.64 252.17 C0.66 252.24 0.69 252.28 0.74 252.28 C0.74 252.28 0.94
+								 252.29 1.33 252.32 C1.72 252.34 1.92 252.36 1.94 252.37 C2 252.37 2.03 252.34 2.03 252.3 C2.03 252.26
+								 1.9 251.71 1.62 250.63 C1.35 249.58 1.21 249.03 1.21 248.99 C1.31 249.04 1.39 249.1 1.45 249.14
+								 C1.58 249.24 1.77 249.41 2.02 249.65 C2.27 249.89 2.46 250.05 2.6 250.13 C2.82 250.28 3.03 250.35
+								 3.23 250.35 C3.39 250.35 3.52 250.3 3.61 250.2 C3.71 250.1 3.76 249.95 3.76 249.77 C3.76 249.63
+								 3.74 249.52 3.71 249.43 C3.67 249.34 3.61 249.27 3.55 249.23 C3.48 249.19 3.42 249.16 3.37 249.14
+								 C3.32 249.13 3.28 249.12 3.23 249.12 C3.12 249.12 3.03 249.15 2.96 249.21 C2.89 249.27 2.86 249.34
+								 2.86 249.44 C2.86 249.57 2.91 249.68 2.99 249.77 C3.08 249.85 3.17 249.91 3.26 249.94 L3.39 249.96
+								 C3.32 250.02 3.26 250.05 3.19 250.05 L3.16 250.05 C2.98 250.04 2.81 249.97 2.64 249.86 C2.47 249.74
+								 2.27 249.57 2.03 249.34 C1.8 249.12 1.62 248.96 1.49 248.86 C1.5 248.85 1.54 248.84 1.61 248.83
+								 C1.68 248.82 1.75 248.8 1.81 248.78 C1.87 248.76 1.94 248.74 2.03 248.72 C2.11 248.7 2.18 248.66
+								 2.25 248.61 C2.32 248.55 2.38 248.51 2.43 248.46 C2.49 248.42 2.53 248.35 2.57 248.26 C2.61 248.16
+								 2.63 248.07 2.62 247.99 C2.62 247.9 2.61 247.79 2.58 247.66 C2.55 247.54 2.54 247.43 2.53 247.34
+								 C2.53 247.13 2.61 247.02 2.75 247.02 C3.02 247.02 3.23 247.34 3.4 247.98 C3.41 248.02 3.47 248.04
+								 3.56 248.04 L3.6 248.04 C3.69 248.04 3.73 248.02 3.73 247.97 C3.73 247.94 3.72 247.9 3.71 247.86
+								 C3.48 247.1 3.15 246.73 2.73 246.73 C2.48 246.73 2.28 246.8 2.13 246.94 C1.97 247.07 1.89 247.27
+								 1.89 247.54 C1.89 247.63 1.9 247.71 1.92 247.78 C1.94 247.85 1.94 247.92 1.94 247.98 C1.94 248.09
+								 1.91 248.19 1.83 248.28 C1.75 248.36 1.65 248.43 1.54 248.46 C1.42 248.5 1.33 248.53 1.26 248.55
+								 C1.19 248.57 1.14 248.58 1.11 248.58 L1.09 248.58 C1.03 248.35 0.97 248.14 0.92 247.93 C0.87 247.72
+								 0.83 247.57 0.8 247.46 C0.77 247.36 0.75 247.26 0.73 247.17 C0.71 247.07 0.69 247.01 0.67 246.98
+								 C0.65 246.94 0.63 246.91 0.61 246.87 C0.59 246.83 0.56 246.81 0.52 246.8 C0.45 246.75 0.37 246.73
+								 0.29 246.73 C0.2 246.73 0.12 246.75 0.07 246.81 C0.02 246.86 0 246.91 0 246.94 C0 247 0.1 247.42
+								 0.31 248.22 C0.51 249.02 0.71 249.81 0.91 250.58 L1.22 251.74 C1.22 251.81 1.2 251.85 1.16 251.87
+								 C1.11 251.89 1.01 251.9 0.84 251.91 L0.79 251.91 C0.74 251.91 0.7 251.91 0.69 251.91 C0.67 251.91
+								 0.65 251.92 0.63 251.93 C0.61 251.95 0.6 251.97 0.6 251.99 Z" class="st13"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
